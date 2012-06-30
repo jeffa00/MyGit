@@ -28,9 +28,7 @@ Obviously, you need to specify the correct path if it isn't ~/.gitignore_global
 
 ### Project
 
-These are specific to a type of project. For instance, node.js or asp.net.
-
-**Note:** I'm adding the global alone to start with.
+These are specific to a type of project. For instance, node.js or Android.
 
 ### Links
 
